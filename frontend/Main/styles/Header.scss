@@ -1,0 +1,39 @@
+@import '../../Shared/styles//vars.scss';
+.HeaderContainer {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    background-color: $Mustard;
+    font-family: $HeadFont;
+    font-weight: $Blood;
+    color: white;
+    .LogoContainer {  
+        height: 100%;
+        width: 15%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       img{
+           height: 90%;
+       }
+    }
+    .MenuContainer {
+        display: flex;
+        width: 85%;
+        justify-content: flex-end;
+        align-items: center;
+        height: 100%;
+        .MenuItem{
+            height: 100%;
+            width: 10%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            &:hover{
+
+                background-color: rgba($color: $Yellow, $alpha: 0.5);
+            }
+        }
+    }
+}
