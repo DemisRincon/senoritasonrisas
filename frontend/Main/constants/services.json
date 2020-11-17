@@ -1,9 +1,12 @@
 {
     "titleImage": "/images/title.png",
-    "titleText": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima.",
+    "titleText": {
+        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima.",
+        "color": "White"
+    },
     "list": [
         {
-        "image": "/images/logo.png",
+            "image": "/images/logo.png",
             "title": "Diseño de personajes",
             "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima."
         },

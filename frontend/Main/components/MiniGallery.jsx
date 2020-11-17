@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from '../styles/Services.scss'
+import styles from '../styles/MiniGallery.scss'
 const MiniGallery = ({ data }) => {
     return (
         <div className={styles.ServicesContainer}>
@@ -8,8 +8,8 @@ const MiniGallery = ({ data }) => {
                     <img src={data.titleImage} />
                 </div>
                 <div className={styles.Subtitle}>
-                    <h3>
-                        {data.titleText}
+                    <h3 className={styles[data.titleText.color]}>
+                        {data.titleText.text}
                     </h3>
                 </div>
             </div>

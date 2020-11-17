@@ -1,0 +1,25 @@
+{
+    "titleImage": "/images/title.png",
+    "titleText": {
+        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima.",
+        "color": "Black"
+    },
+    "list": [
+        {
+            "image": "/images/logo.png",
+            "title": "Articulo 1",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima."
+        },
+        {
+            "image": "/images/logo.png",
+            "title": "Articulo 2",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima."
+        },
+        {
+            "image": "/images/logo.png",
+            "title": "Articulo 3",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima."
+        }
+        
+    ]
+}
