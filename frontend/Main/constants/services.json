@@ -1,0 +1,26 @@
+{
+    "titleImage": "/images/title.png",
+    "titleText": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima.",
+    "list": [
+        {
+        "image": "/images/logo.png",
+            "title": "Diseño de personajes",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima."
+        },
+        {
+            "image": "/images/logo.png",
+            "title": "Cartoons",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima."
+        },
+        {
+            "image": "/images/logo.png",
+            "title": "Animacion 2D",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima."
+        },
+        {
+            "image": "/images/logo.png",
+            "title": "Branding",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores, molestias. Provident totam dolorum atque nulla beatae perferendis accusamus animi nihil dolores sapiente soluta, magnam nesciunt quo? Maxime distinctio nulla minima."
+        }
+    ]
+}

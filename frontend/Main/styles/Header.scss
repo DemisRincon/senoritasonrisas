@@ -7,6 +7,8 @@
     font-family: $HeadFont;
     font-weight: $Blood;
     color: white;
+    box-shadow: 2px 2px 2px 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
     .LogoContainer {  
         height: 100%;
         width: 15%;
