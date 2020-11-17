@@ -4,7 +4,7 @@ const Ebook = () => {
     return (
         <div className={styles.EbookPageContainer}>
             <div className={styles.ImageContainer}>
-<img src="/images/book.jpg" />
+                <img src="/images/book.jpg" />
             </div>
             <div className={styles.TextContainer}>
                 <div className={styles.TitleContainer}>
